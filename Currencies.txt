@@ -1,0 +1,17 @@
+USD, Dólar USA, $
+CAD, Dólar Canadá, $
+EUR, Euro, €
+RUB, Russian ruble, ₽
+ARS, Argentine peso, $
+AUD, Australian dollar, $
+SRD, Surinam Dollar, $
+SYP, Syrian Pound, £	
+THB, Baht, ฿
+TRY, Turkish Lira, TL
+TWD, New Taiwan Dollar, NT$
+UAH, Hryvnia, ₴
+UZS, Uzbekistan Sum, лв
+VEF, Bolivar Fuerte, Bs
+VND, Dong, ₫
+XCD, East Caribbean Dollar, $		
+YER, Yemeni Rial, ﷼
